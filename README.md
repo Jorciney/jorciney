@@ -16,7 +16,7 @@ Currently, I'm engaged with a client where I'm diving deep into frontend develop
 ## ⚙️ Personal Projects
 
 In my spare time, I channel my creativity and technical skills into personal projects:
-- **CleverUpps:** I'm founder of cleverupp.be, a consultancy company dedicated to delivering innovative software solutions.
+- **CleverUpps:** I'm founder of https://cleverupps.be, a consultancy company dedicated to delivering innovative software solutions.
 - **Shippy:** An innovative solution aimed at revolutionizing shipping calculation for eCommerce's in Brazil. https://shippy.com.br and https://app.shippy.com.br
 - **Hairwego:** A mobile application aimed to help users book a hairdresser appointment. Stack used: React Native, React, MongoDb, Java, Jenkins
 
