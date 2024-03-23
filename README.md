@@ -12,7 +12,7 @@ Currently, I'm engaged with a client where I'm diving deep into frontend develop
 - **Cypress & Storybook:** Ensuring quality and interactive UI components.
 - **GitLab & AWS:** Leveraging robust tools for CI/CD and cloud services.
 - **Microfrontends:** Leveraging the power of Module federation.
-- 
+  
 - 💬 Ask me about **angular, module federation, monorepo, nx**
 
 
