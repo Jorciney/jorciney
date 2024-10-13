@@ -1,19 +1,3 @@
-<h1 align="center">Hi 👋, I'm Jorciney</h1>
-<h3 align="center">A passionate software developer from Belgium</h3>
-
-My journey in tech is driven by my enthusiasm for crafting beautiful and functional digital experiences.
-
-## 🌟 What I Do
-
-Currently, I'm engaged with a client where I'm diving deep into frontend development. Here's a snapshot of what I'm working with:
-
-- **Monorepo Management:** Orchestrating a cohesive development environment.
-- **Angular & NX:** Building scalable and efficient web applications.
-- **Cypress & Storybook:** Ensuring quality and interactive UI components.
-- **GitLab & AWS:** Leveraging robust tools for CI/CD and cloud services.
-- **Microfrontends:** Leveraging the power of Module federation.
-  
-- 💬 Ask me about **angular, module federation, monorepo, nx**
 
 
 <h3 align="left">Languages and Tools:</h3>
